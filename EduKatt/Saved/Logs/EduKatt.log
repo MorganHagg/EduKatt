@@ -680,3 +680,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.05-12.16.46:069][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.02.05-12.16.53:589][396]LogAssetRegistry: Asset discovery search completed in 11.0882 seconds
 [2021.02.05-12.16.53:590][396]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.02.05-12.18.07:959][941]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.05-12.18.23:202][845]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.05-12.18.46:630][248]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.05-12.19.45:965][  3]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.02.05-12.19.45:971][  3]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.02.05-12.19.45:972][  3]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.05-12.19.48:161][135]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainScreen
+[2021.02.05-12.19.48:164][135]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.02.05-12.19.48:511][155]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainScreen.MainScreen
+[2021.02.05-12.19.48:765][155]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.02.05-12.19.49:837][155]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.05-12.19.53:564][377]LogSlate: Window 'MainScreen' being destroyed
+[2021.02.05-12.19.57:449][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.05-12.19.58:134][648]Cmd: DELETE
+[2021.02.05-12.19.58:134][648]Cmd: ACTOR DELETE
+[2021.02.05-12.19.58:135][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.05-12.19.58:172][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.02.05-12.19.58:173][648]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.02.05-12.19.58:874][690]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.02.05-12.19.58:923][692]Cmd: DELETE
+[2021.02.05-12.19.58:923][692]Cmd: ACTOR DELETE
+[2021.02.05-12.19.58:924][692]LogEditorActor: Deleted Actor: PlayerStart
+[2021.02.05-12.19.58:946][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.02.05-12.19.58:947][692]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.02.05-12.19.59:332][715]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.02.05-12.19.59:414][719]Cmd: DELETE
+[2021.02.05-12.19.59:414][719]Cmd: ACTOR DELETE
+[2021.02.05-12.19.59:415][719]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2021.02.05-12.19.59:435][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.02.05-12.19.59:435][719]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.02.05-12.20.00:144][762]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.02.05-12.20.00:191][764]Cmd: DELETE
+[2021.02.05-12.20.00:191][764]Cmd: ACTOR DELETE
+[2021.02.05-12.20.00:192][764]LogEditorActor: Deleted Actor: SkyLight
+[2021.02.05-12.20.00:210][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.02.05-12.20.00:211][764]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.02.05-12.33.04:140][864]BlueprintLog: New page: Compile MainScreen
+[2021.02.05-12.33.04:166][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.02.05-12.33.13:041][388]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.05-12.33.13:806][433]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.05-12.33.36:649][781]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.05-12.33.46:961][347]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.05-12.33.48:024][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.05-12.35.23:569][189]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled
+[2021.02.05-12.36.32:168][653]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.05-12.37.21:340][211]LogSlate: Took 0.007433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.02.05-12.38.19:253][ 40]LogEditorTransaction: Undo Create Pin Link
+[2021.02.05-12.38.20:084][ 74]LogEditorTransaction: Undo Move Node
+[2021.02.05-12.38.40:192][191]LogSlate: Took 0.006177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.05-12.39.25:716][339]BlueprintLog: New page: Compile Untitled
+[2021.02.05-12.39.25:747][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.02.05-12.39.31:567][676]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.05-12.39.31:620][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.05-12.39.31:664][676]PIE: New page: PIE session: Untitled_1 (5 Feb 2021, 14:39:31)
+[2021.02.05-12.39.31:737][676]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.05-12.39.31:745][676]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.05-12.39.31:745][676]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.02.05-12.39.31:747][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2021.02.05-12.39.31:748][676]LogAIModule: Creating AISystem for world Untitled_1
+[2021.02.05-12.39.31:748][676]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2021.02.05-12.39.31:748][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003357s)
+[2021.02.05-12.39.31:772][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.02.05-12.39.31:773][676]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.05-12.39.31:773][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.05-12.39.31:773][676]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.05-12.39.31:773][676]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.05-12.39.31:778][676]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.05-12.39.31:778][676]LogAudioMixer: Display: 1: FrontRight
+[2021.02.05-12.39.31:802][676]LogAudioMixer: Display: Using Audio Device Hodetelefoner (2- Arctis Pro Wireless Game)
+[2021.02.05-12.39.31:803][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.05-12.39.31:803][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.05-12.39.31:803][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.05-12.39.31:803][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.05-12.39.31:803][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.05-12.39.31:803][676]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2021.02.05-12.39.31:817][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.05-12.39.31:817][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.05-12.39.31:817][676]LogInit: FAudioDevice initialized.
+[2021.02.05-12.39.31:817][676]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2021.02.05-12.39.31:837][676]LogLoad: Game class is 'GameModeBase'
+[2021.02.05-12.39.31:839][676]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2021.02.05-13.39.31
+[2021.02.05-12.39.31:839][676]LogWorld: Bringing up level for play took: 0.000461
+[2021.02.05-12.39.31:839][676]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.02.05-12.39.32:070][676]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.05-12.39.32:130][676]PIE: Server logged in
+[2021.02.05-12.39.32:131][676]PIE: Play in editor total start time 0.523 seconds.
+[2021.02.05-12.39.33:694][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.05-12.39.33:694][748]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.02.05-12.39.33:694][748]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.05-12.39.33:694][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.05-12.39.33:702][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.05-12.39.33:712][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.05-12.39.33:740][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.05-12.39.33:740][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.05-12.39.33:741][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.05-12.39.33:774][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.02.05-12.39.33:804][749]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.02.05-12.40.20:518][699]LogSlate: Window 'Save Level As' being destroyed
+[2021.02.05-12.40.20:661][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../EduKatt/EduKatt/EduKatt/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.05-12.40.20:708][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.02.05-12.40.20:766][699]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/NewMapC19741AA4995E9E1EF80ADA22CF6020C.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Content/NewMap.umap'
+[2021.02.05-12.40.20:835][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../EduKatt/EduKatt/EduKatt/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.02.05-12.40.20:853][699]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/NewMap_BuiltData82B5924C4C39FA70C41CAC8611CA6101.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Content/NewMap_BuiltData.uasset'
+[2021.02.05-12.40.20:861][699]LogFileHelpers: Saving map 'NewMap' took 0.338
+[2021.02.05-12.40.20:870][699]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.05-12.40.20:870][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.02.05-12.40.20:871][699]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
