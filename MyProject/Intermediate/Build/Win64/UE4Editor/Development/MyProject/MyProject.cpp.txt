@@ -1,2 +1,0 @@
-D:\EduKatt\EduKatt\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-D:\EduKatt\EduKatt\MyProject\Source\MyProject\MyProject.h
