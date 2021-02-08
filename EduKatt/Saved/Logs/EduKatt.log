@@ -2241,3 +2241,116 @@ Make sure 'PDFReaderScreen_C' has been compiled for  Set MainRef
 [2021.02.08-02.13.06:073][954]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.08-02.13.06:073][954]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.02.08-02.13.06:073][954]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
+[2021.02.08-02.16.03:319][692]BlueprintLog: New page: Compile Main
+[2021.02.08-02.16.03:338][692]LogBlueprint: Error: [AssetLog] D:\EduKatt\EduKatt\EduKatt\Content\Main.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2021.02.08-02.16.03:394][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.02.08-02.17.15:118][484]BlueprintLog: New page: Compile Main
+[2021.02.08-02.17.15:170][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.02.08-02.17.19:374][654]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.08-02.17.26:183][654]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.08-02.17.26:191][654]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.02.08-02.17.26:208][654]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.02.08-02.17.31:569][973]LogContentBrowser: Attempting asset rename: NewBlueprint -> Cursor
+[2021.02.08-02.17.31:621][973]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.02.08-02.17.34:153][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cursor.Cursor
+[2021.02.08-02.17.35:013][ 67]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2021.02.08-02.17.40:134][370]BlueprintLog: New page: Compile Cursor
+[2021.02.08-02.17.40:206][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.02.08-02.18.02:165][670]BlueprintLog: New page: Compile Main
+[2021.02.08-02.18.02:219][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.02.08-02.18.17:314][570]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.08-02.18.53:674][445]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.08-02.18.53:681][445]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.02.08-02.18.53:695][445]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.02.08-02.19.02:634][982]LogContentBrowser: Attempting asset rename: NewBlueprint -> EduKattGameMode
+[2021.02.08-02.19.02:637][982]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.02.08-02.19.03:569][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EduKattGameMode.EduKattGameMode
+[2021.02.08-02.19.08:409][304]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.08-02.19.11:417][479]BlueprintLog: New page: Compile EduKattGameMode
+[2021.02.08-02.19.11:488][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.02.08-02.19.22:952][145]LogContentBrowser: Attempting asset rename: Cursor -> EduKattGameController
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.EduKattGameController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.SKEL_EduKattGameController_C' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.EduKattGameController_C' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.EduKattGameController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.EduKattGameController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.SKEL_EduKattGameController_C:ReceiveBeginPlay' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.SKEL_EduKattGameController_C:ReceiveTick' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.22:967][145]LogMetaData: Removing '/Game/EduKattGameController.SKEL_EduKattGameController_C:UserConstructionScript' ref from Metadata '/Game/Cursor.PackageMetaData'
+[2021.02.08-02.19.23:000][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EduKattGameController" FILE="../../../../../EduKatt/EduKatt/EduKatt/Content/EduKattGameController.uasset" SILENT=true
+[2021.02.08-02.19.23:007][145]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/EduKattGameController7F21F3F5404E50C26BEAD9B9BAE857EA.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Content/EduKattGameController.uasset'
+[2021.02.08-02.19.23:131][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.02.08-02.19.23:185][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.02.08-02.19.23:231][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.08-02.19.23:277][145]AssetCheck: New page: Asset Save: EduKattGameController
+[2021.02.08-02.19.23:277][145]LogContentValidation: Display: Validating Blueprint /Game/EduKattGameController.EduKattGameController
+[2021.02.08-02.19.27:200][375]BlueprintLog: New page: Compile EduKattGameMode
+[2021.02.08-02.19.27:271][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.02.08-02.19.29:002][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EduKattGameMode" FILE="../../../../../EduKatt/EduKatt/EduKatt/Content/EduKattGameMode.uasset" SILENT=true
+[2021.02.08-02.19.29:008][476]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/EduKattGameModeFFE77088441133FB9F5D45BA3B2115F6.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Content/EduKattGameMode.uasset'
+[2021.02.08-02.19.29:021][476]AssetCheck: New page: Asset Save: EduKattGameMode
+[2021.02.08-02.19.29:021][476]LogContentValidation: Display: Validating Blueprint /Game/EduKattGameMode.EduKattGameMode
+[2021.02.08-02.19.31:892][644]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.08-02.19.38:432][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-02.19.38:443][ 31]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.08-02.19.38:446][ 31]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2021.02.08-02.19.38:474][ 31]LogPlayLevel: [PlayLevel] Compiling HomeScreen before play...
+[2021.02.08-02.19.38:511][ 31]LogPlayLevel: [PlayLevel] Compiling KattenScreen before play...
+[2021.02.08-02.19.38:548][ 31]LogPlayLevel: [PlayLevel] Compiling LoginScreen before play...
+[2021.02.08-02.19.38:579][ 31]LogPlayLevel: [PlayLevel] Compiling KalenderScreen before play...
+[2021.02.08-02.19.38:618][ 31]LogPlayLevel: [PlayLevel] Compiling PDFReaderScreen before play...
+[2021.02.08-02.19.38:656][ 31]LogPlayLevel: [PlayLevel] Compiling GaaTilTimenScreen before play...
+[2021.02.08-02.19.38:746][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.02.08-02.19.38:746][ 31]LogPlayLevel: PlayLevel: Blueprint regeneration took 303 ms (7 blueprints)
+[2021.02.08-02.19.38:746][ 31]PIE: New page: PIE session: MainLevel (8 Feb 2021, 04:19:38)
+[2021.02.08-02.19.38:746][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.02.08-02.19.38:748][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001895s)
+[2021.02.08-02.19.38:749][ 31]LogAIModule: Creating AISystem for world MainLevel
+[2021.02.08-02.19.38:749][ 31]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2021.02.08-02.19.38:750][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003453s)
+[2021.02.08-02.19.38:797][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.02.08-02.19.38:798][ 31]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-02.19.38:798][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-02.19.38:798][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-02.19.38:799][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-02.19.38:799][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-02.19.38:803][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-02.19.38:803][ 31]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-02.19.38:813][ 31]LogAudioMixer: Display: Using Audio Device Hodetelefoner (2- Arctis Pro Wireless Game)
+[2021.02.08-02.19.38:814][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-02.19.38:814][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-02.19.38:814][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-02.19.38:814][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-02.19.38:814][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.08-02.19.38:814][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2021.02.08-02.19.38:827][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.08-02.19.38:827][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.08-02.19.38:827][ 31]LogInit: FAudioDevice initialized.
+[2021.02.08-02.19.38:827][ 31]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainLevel'.
+[2021.02.08-02.19.38:839][ 31]LogLoad: Game class is 'EduKattGameMode_C'
+[2021.02.08-02.19.38:840][ 31]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.02.08-03.19.38
+[2021.02.08-02.19.38:840][ 31]LogWorld: Bringing up level for play took: 0.000323
+[2021.02.08-02.19.38:840][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.02.08-02.19.38:842][ 31]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.08-02.19.38:854][ 31]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.08-02.19.38:854][ 31]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.02.08-02.19.38:895][ 31]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.02.08-02.19.38:895][ 31]PIE: Server logged in
+[2021.02.08-02.19.38:896][ 31]PIE: Play in editor total start time 0.455 seconds.
+[2021.02.08-02.19.43:504][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-02.19.43:504][304]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.02.08-02.19.43:504][304]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-02.19.43:504][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-02.19.43:509][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-02.19.43:520][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-02.19.43:564][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-02.19.43:565][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.08-02.19.43:565][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.08-02.19.43:584][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.02.08-02.19.43:612][305]LogPlayLevel: Display: Destroying online subsystem :Context_37
