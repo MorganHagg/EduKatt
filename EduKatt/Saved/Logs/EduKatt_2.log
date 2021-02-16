@@ -1866,3 +1866,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.16-16.55.16:810][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
 [2021.02.16-16.56.06:494][509]BlueprintLog: New page: Compile PDFReaderScreen
 [2021.02.16-16.56.06:543][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.02.16-16.56.39:855][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.02.16-16.56.39:856][967]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.072
+[2021.02.16-16.56.39:856][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main] ([1] browsable assets)...
+[2021.02.16-16.56.39:856][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main]
+[2021.02.16-16.56.39:856][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/Main_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.39:882][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/Main_Auto342C07E724A4DBEBCAC72019B908A1338.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/Main_Auto3.uasset'
+[2021.02.16-16.56.39:883][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GaaTilTimenScreen] ([2] browsable assets)...
+[2021.02.16-16.56.39:883][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/GaaTilTimenScreen]
+[2021.02.16-16.56.39:883][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GaaTilTimenScreen" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/GaaTilTimenScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.39:900][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/GaaTilTimenScreen_Auto3F74AAB824C3DB74224301999DE03E6DD.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/GaaTilTimenScreen_Auto3.uasset'
+[2021.02.16-16.56.39:900][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HomeScreen] ([1] browsable assets)...
+[2021.02.16-16.56.39:901][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomeScreen]
+[2021.02.16-16.56.39:901][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/HomeScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.39:935][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/HomeScreen_Auto35F996FBE46F289D379E89DA8D92687B9.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/HomeScreen_Auto3.uasset'
+[2021.02.16-16.56.39:936][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KattenVillageScreen] ([1] browsable assets)...
+[2021.02.16-16.56.39:936][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/KattenVillageScreen]
+[2021.02.16-16.56.39:936][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KattenVillageScreen" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/KattenVillageScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.39:952][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/KattenVillageScreen_Auto348B19F914CDE115DCC62B5AD103D8F8C.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/KattenVillageScreen_Auto3.uasset'
+[2021.02.16-16.56.39:953][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LoginScreen] ([2] browsable assets)...
+[2021.02.16-16.56.39:953][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/LoginScreen]
+[2021.02.16-16.56.39:953][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LoginScreen" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/LoginScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.39:967][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/LoginScreen_Auto37964241849F29C44B420C8A2512A807C.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/LoginScreen_Auto3.uasset'
+[2021.02.16-16.56.40:013][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PDFReaderScreen] ([1] browsable assets)...
+[2021.02.16-16.56.40:013][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/PDFReaderScreen]
+[2021.02.16-16.56.40:013][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PDFReaderScreen" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/PDFReaderScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.40:026][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/PDFReaderScreen_Auto37F4A6C014BB538E9DBCE6A82468C79B3.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/PDFReaderScreen_Auto3.uasset'
+[2021.02.16-16.56.40:027][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KattenInventoryScreen] ([1] browsable assets)...
+[2021.02.16-16.56.40:027][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/KattenInventoryScreen]
+[2021.02.16-16.56.40:027][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KattenInventoryScreen" FILE="../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/KattenInventoryScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.16-16.56.40:039][967]LogSavePackage: Moving '../../../../../EduKatt/EduKatt/EduKatt/Saved/KattenInventoryScreen_Auto3ACD18E614ADD3EB258F060B6D41EDE57.tmp' to '../../../../../EduKatt/EduKatt/EduKatt/Saved/Autosaves/Game/KattenInventoryScreen_Auto3.uasset'
+[2021.02.16-16.56.40:040][967]LogFileHelpers: Auto-saving content packages took 0.184
+[2021.02.16-16.56.52:226][650]BlueprintLog: New page: Compile PDFReaderScreen
+[2021.02.16-16.56.52:274][650]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.02.16-16.56.54:793][795]BlueprintLog: New page: Compile KattenInventoryScreen
+[2021.02.16-16.56.54:839][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.02.16-16.57.15:793][ 31]BlueprintLog: New page: Compile KattenVillageScreen
+[2021.02.16-16.57.15:842][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.02.16-16.57.30:375][883]BlueprintLog: New page: Compile PDFReaderScreen
+[2021.02.16-16.57.30:423][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.02.16-16.57.46:741][656]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.16-16.58.04:609][712]BlueprintLog: New page: Compile KalendarScreen
+[2021.02.16-16.58.04:662][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.02.16-16.58.13:661][186]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.16-16.58.18:824][491]BlueprintLog: New page: Compile GaaTilTimenScreen
+[2021.02.16-16.58.18:871][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.02.16-16.58.39:808][664]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.16-16.58.40:624][710]BlueprintLog: New page: Compile HomeScreen
+[2021.02.16-16.58.40:676][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.02.16-16.58.54:758][543]BlueprintLog: New page: Compile HomeScreen
+[2021.02.16-16.58.54:807][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.02.16-16.58.58:958][781]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.16-16.58.58:970][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.16-16.58.58:970][781]PIE: New page: PIE session: MainLevel (16 Feb 2021, 18:58:58)
+[2021.02.16-16.58.58:970][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.02.16-16.58.58:972][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001702s)
+[2021.02.16-16.58.58:973][781]LogAIModule: Creating AISystem for world MainLevel
+[2021.02.16-16.58.58:973][781]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2021.02.16-16.58.58:973][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003026s)
+[2021.02.16-16.58.59:017][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.02.16-16.58.59:018][781]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.16-16.58.59:019][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.16-16.58.59:019][781]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.16-16.58.59:019][781]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.16-16.58.59:024][781]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.16-16.58.59:024][781]LogAudioMixer: Display: 1: FrontRight
+[2021.02.16-16.58.59:035][781]LogAudioMixer: Display: Using Audio Device Hodetelefoner (2- Arctis Pro Wireless Game)
+[2021.02.16-16.58.59:036][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.16-16.58.59:036][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.16-16.58.59:036][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.16-16.58.59:036][781]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.16-16.58.59:036][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.16-16.58.59:036][781]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2021.02.16-16.58.59:050][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.16-16.58.59:050][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.16-16.58.59:050][781]LogInit: FAudioDevice initialized.
+[2021.02.16-16.58.59:050][781]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2021.02.16-16.58.59:061][781]LogLoad: Game class is 'EduKattGameMode_C'
+[2021.02.16-16.58.59:062][781]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.02.16-17.58.59
+[2021.02.16-16.58.59:062][781]LogWorld: Bringing up level for play took: 0.000356
+[2021.02.16-16.58.59:062][781]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.02.16-16.58.59:064][781]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.16-16.58.59:064][781]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.16-16.58.59:064][781]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.02.16-16.58.59:064][781]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.02.16-16.58.59:065][781]PIE: Server logged in
+[2021.02.16-16.58.59:065][781]PIE: Play in editor total start time 0.097 seconds.
+[2021.02.16-16.59.10:246][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-16.59.10:246][451]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.02.16-16.59.10:246][451]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.02.16-16.59.10:246][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-16.59.10:254][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.16-16.59.10:260][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.16-16.59.10:299][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.16-16.59.10:300][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.16-16.59.10:301][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.16-16.59.10:317][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.16-16.59.10:321][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.02.16-16.59.10:346][452]LogPlayLevel: Display: Destroying online subsystem :Context_30
